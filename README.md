@@ -1,4 +1,4 @@
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/7fed834b-f407-463d-97dc-1724301ada5d" /># app-dev
+
 My first repository
 
 Title: F1 DTS
